@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img{
+border-radius: 50%;
+width: 32%;
+}
+body{
+background-color: lightpink;
+
+}
+
+h1{
+text-align: center;
+  color: white;
+  font-family:"Brush Script M7", cursive;
+
+}
+h2{
+text-align: center;
+  color:white;
+  font-family:"Brush Script M7", cursive;
+}
+
+li {
+  display:inline;
+  padding: 8px;
+  
+}
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  
+}
+div{
+padding-top: 20px;
+
+}
+
